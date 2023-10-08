@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melody/slam/opencl/hello_world/main.cpp
+CL/cl.hpp
+-
+fstream
+-
+iostream
+-
+sstream
+-
+

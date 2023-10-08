@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melody/slam/opencl/information/main.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+malloc.h
+-
+alloca.h
+-
+OpenCL/cl.h
+-
+CL/cl.h
+-
+

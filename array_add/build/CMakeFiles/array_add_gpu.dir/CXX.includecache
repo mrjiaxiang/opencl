@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melody/slam/opencl/array_add/main.cpp
+CL/cl.hpp
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melody/slam/opencl/convolution/main.cpp
+CL/cl.hpp
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+

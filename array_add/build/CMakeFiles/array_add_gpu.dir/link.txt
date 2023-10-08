@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/array_add_gpu.dir/main.cpp.o  -o array_add_gpu  /usr/lib/x86_64-linux-gnu/libOpenCL.so 
